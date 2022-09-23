@@ -29,9 +29,9 @@ global.APIKeys = { // APIKey Here
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
-global.packname = data.shiro akasaki
-global.author = data.Leo
-global.wm = data.shiro akasaki + ' ' + data.Leo
+global.packname = data.namabot
+global.author = data.owner
+global.wm = data.namabot + ' ' + data.owner
 
 global.multiplier = 100 // The higher, The harder levelup
 
